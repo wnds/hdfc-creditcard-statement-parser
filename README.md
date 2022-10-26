@@ -18,7 +18,7 @@ Install and run project with python 3.x
 ## Usage
 
 ```bash
-python --statement-path <path-to-pdf-statment> --password <pdf-password-optional> --show-diners-rewards <flag-for-rewards>
+python run.py --statement-path <path-to-pdf-statment> --password <pdf-password-optional> --show-diners-rewards <flag-for-rewards>
 ```
 ```
 --statement-path - Path to pdf statement file.
